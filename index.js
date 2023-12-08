@@ -1,5 +1,5 @@
 let player = {
-    name: "Per",
+    name: "Nitish",
     chips: 200,
     sayHello: function() {
         console.log("Heisann!")
